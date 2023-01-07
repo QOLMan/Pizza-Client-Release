@@ -6,6 +6,4 @@ Most notable features: (all auras and nukers use fake rotation packets) -Qol ice
 
 All macros have failsafes, for example player detection or stop when getting warped out -Auto Enchanting -Auto Book Combine -Auto Salvage -Shoot terminator when left clicking with valk -Gemstone ESP -Hide Golden Goblins -Powder Chest Macro (there's also a mode to only use fake rotation to solve it) -Item Keybinds -Commission Esps -Alot of dungeon Esps -Auto Wardrobe -Anti sessionid stealer (works for getSessionID and getToken, still somewhat WIP?)
 
-There's still a shit ton more features, like a shit ton of esps and shit, but i cba mentioning them
-
 Upcoming: -Auto Fishing Macro -Pathfinding
